@@ -1,4 +1,3 @@
-# Clinic-Managment-System
 # Clinic Appointment System
 
 This is a simple clinic appointment system built with PHP, MySQL, and Bootstrap.
