@@ -1,21 +1,22 @@
 # Clinic Appointment System
 
-This is a simple clinic appointment system built with PHP, MySQL, and Bootstrap.
+This is a web application for managing clinic appointments. It allows patients to book appointments, view their appointments, and access frequently asked questions (FAQ). The system also supports multi-language (Arabic and English).
 
 ## Features
+- **User Registration and Login**: Patients can create accounts and log in to book appointments.
+- **Appointment Booking**: Patients can book appointments by selecting a date, time, and reason.
+- **Appointment Management**: Patients can view, modify, or cancel their appointments.
+- **Multi-Language Support**: The system supports both Arabic and English.
+- **FAQ Section**: Common questions and answers are available for patients.
+- **Contact Us Page**: Patients can send inquiries or feedback via a contact form.
 
-- User registration and login
-- Book appointments
-- View appointments
-- FAQ section
+## Technologies Used
+- **Frontend**: HTML, CSS, Bootstrap 5, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Multi-Language**: PHP Sessions
 
 ## Installation
-
-1. Clone the repository.
-2. Import the SQL file into your MySQL database.
-3. Configure the database connection in `config/db.php`.
-4. Run the application on your local server.
-
-## License
-
-This project is open-source and available under the MIT License.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/clinic-appointment-system.git
