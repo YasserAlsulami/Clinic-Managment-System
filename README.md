@@ -16,6 +16,20 @@ This is a web application for managing clinic appointments. It allows patients t
 - **Database**: MySQL
 - **Multi-Language**: PHP Sessions
 
+How to Use
+1.	Register or Log In:
+o	New users can register by providing a username, email, and password.
+o	Existing users can log in using their credentials.
+2.	Book an Appointment:
+o	After logging in, navigate to the Book Appointment page.
+o	Select a date, time, and provide a reason for the appointment.
+3.	View or Manage Appointments:
+o	Go to the My Appointments page to view, modify, or cancel your appointments.
+4.	Switch Language:
+o	Use the language toggle to switch between Arabic and English.
+5.	Contact Us:
+o	Visit the Contact Us page to send inquiries or feedback.
+
 ## Installation
    ```bash
  https://github.com/YasserAlsulami/Clinic-Managment-System.git
