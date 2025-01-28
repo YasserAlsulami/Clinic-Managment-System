@@ -17,6 +17,5 @@ This is a web application for managing clinic appointments. It allows patients t
 - **Multi-Language**: PHP Sessions
 
 ## Installation
-1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/clinic-appointment-system.git
+ https://github.com/YasserAlsulami/Clinic-Managment-System.git
